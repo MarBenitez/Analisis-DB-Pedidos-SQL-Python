@@ -1,0 +1,38 @@
+Codigo_Producto,Nombre_Producto,Componente_Codigo,Componente_Nombre
+18,Agua,,
+08,Bacon,,
+09,Coca cola,,
+19,Fanta,,
+17,Fruta,,
+01,Hamburguesa,,
+15,Helado,,
+05,Lechuga,,
+14,Menú de Hamburguesa,01,Hamburguesa
+14,Menú de Hamburguesa,02,Patatas
+14,Menú de Hamburguesa,03,tomate
+14,Menú de Hamburguesa,05,Lechuga
+14,Menú de Hamburguesa,08,Bacon
+14,Menú de Hamburguesa,09,Coca cola
+14,Menú de Hamburguesa,15,Helado
+12,Menú de Hamburguesa con queso,01,Hamburguesa
+12,Menú de Hamburguesa con queso,02,Patatas
+12,Menú de Hamburguesa con queso,04,Queso
+12,Menú de Hamburguesa con queso,10,Nestea
+12,Menú de Hamburguesa con queso,16,Tarta
+11,Menú de Pollo,02,Patatas
+11,Menú de Pollo,03,tomate
+11,Menú de Pollo,06,Pollo
+11,Menú de Pollo,17,Fruta
+11,Menú de Pollo,18,Agua
+13,Menú de Pollo con queso,02,Patatas
+13,Menú de Pollo con queso,04,Queso
+13,Menú de Pollo con queso,06,Pollo
+13,Menú de Pollo con queso,08,Bacon
+13,Menú de Pollo con queso,09,Coca cola
+13,Menú de Pollo con queso,15,Helado
+10,Nestea,,
+02,Patatas,,
+06,Pollo,,
+04,Queso,,
+16,Tarta,,
+03,tomate,,
