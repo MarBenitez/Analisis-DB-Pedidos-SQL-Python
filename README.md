@@ -1,11 +1,11 @@
-# Proyecto de Análisis de Base de Datos de Pedidos - SQL+Python
+# Order Database Analysis Project - SQL+Python
 
-Este repositorio contiene un conjunto de consultas SQL diseñadas para analizar una base de datos de pedidos. Estas consultas abordan diversas necesidades de análisis de datos, como listar productos, contar pedidos, calcular estadísticas de salarios y obtener información detallada sobre empleados y repartidores.
+This repository contains a set of SQL queries designed to analyze an order database. These queries address a variety of data analysis needs, such as listing products, counting orders, calculating salary statistics, and obtaining detailed information about employees and delivery people.
 
-## Descripción del Proyecto
+## Project Description
 
-El objetivo de este proyecto es demostrar habilidades en el análisis y manipulación de datos utilizando SQL. A través de estas consultas, se obtiene información valiosa de la base de datos, lo cual es crucial para la toma de decisiones empresariales.El proyecto abarca varios aspectos de la gestión de datos, incluyendo la extracción de información específica, el cálculo de estadísticas y la generación de informes detallados.
+The objective of this project is to demonstrate skills in data analysis and manipulation using SQL. Through these queries, valuable information is obtained from the database, which is crucial for business decision making.The project covers various aspects of data management, including extracting specific information, calculating statistics, and generating detailed reports.
 
-## Contenido del Repositorio
+## Repository Content
 
-El repositorio incluye un archivo con las siguientes consultas SQL, cada una enfocada en una tarea específica de análisis.
+The repository includes a file with the following SQL queries, each focused on a specific analysis task.
